@@ -1,6 +1,6 @@
 // NAVIGATION
 export const NAV_LINKS = [
-  { href: "/home", key: "home", label: "Home" },
+  { href: "/", key: "home", label: "Home" },
   {
     href: "/hilink working",
     key: "how_hilink_work",
